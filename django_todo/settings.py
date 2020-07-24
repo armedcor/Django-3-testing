@@ -26,7 +26,7 @@ SECRET_KEY = 'kba(020mh5*tl^=h+=nu6(_8o^5k8fswj&*_b6hiitw97dsh#q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['armedcor-django-three-app.herokuapp.com']
 
 
 
